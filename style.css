@@ -47,7 +47,7 @@ a {
     color: MintCream;
     transition-property:background-color;
     transition-duration:2s;
-    text-decoration: none;
+		text-decoration: dotted
   }
 a:hover {
 	background-color: green;
