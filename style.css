@@ -6,12 +6,12 @@ p{
 }
 h1{
    color:navy;
-   font-family: Cursive; 
+   font-family: 'Caveat', cursive;; 
    text-align:center;
 }
 h2{
  color:firebrick;
- font-family:cursive;
+ font-family: 'Caveat', cursive;;
  font-size:22px;
  text-align:center;
 }
@@ -19,14 +19,14 @@ h3{
 
 }
 article, .Intro{
-    font-family: Times New Roman;
+    font-family: 'Caveat', cursive;;
     border:blue dotted 3px;
     border-style:solid;
     border-radius:200px;
     background-color:yellow;
 }
 article{
-    font-family:Times New Roman;
+    font-family:"Times New Roman";
 }
 .question{
     caret-color:black;
