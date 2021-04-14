@@ -50,7 +50,5 @@ a {
   }
 a:hover {
 	background-color: green;
-	color: beige
-	transition-property: background-color;
-	transition-duration: 2s;
+	color: beige;
 }
