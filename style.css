@@ -34,7 +34,7 @@ article{
 footer{
     font-size:xx-small
 }
-repl {
+a {
     display: block;
     width: 300px;
     padding: 31px 5px;
@@ -48,6 +48,9 @@ repl {
     transition-property:background-color;
     transition-duration:2s;
   }
-repl :hover {
-    background-color: green;
+a:hover {
+	background-color: green;
+	color: beige
+	transition-property: background-color;
+	transition-duration: 2s;
 }
